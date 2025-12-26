@@ -26,3 +26,10 @@ It is used to host and manage Git projects online.
 3. git add filename.extension – Adds files to staging  
 4. git commit -m "message" – Saves changes  
 5. git push -u origin branchname– Uploads changes to GitHub
+## More Git Commands
+6. git status – Shows file status  
+7. git branch – Shows branches  
+8. git checkout – Switches branch  
+9. git merge – Combines branches  
+10. git pull – Gets latest changes
+11. git switch -d deletes the current branch
